@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gautam9211
-- 👀 I’m interested in python,machine learning,data analyst,web development..
+- 👀 I’m interested in python,machine learning,data analyst and web development..
 - 🌱 I’m currently learning deep learning.
 - 💞️ I’m looking to collaborate on web development..
 - 📫 How to reach me ... you can mail me at agarwal1997ng@gmail.com
